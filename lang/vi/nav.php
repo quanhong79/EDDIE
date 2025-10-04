@@ -1,0 +1,22 @@
+<?php
+return [
+    'home' => 'Trang chủ',
+    'bottoms' => 'Quần',
+    'tops' => 'Áo',
+    'others' => 'Khác',
+    'about' => 'Về chúng tôi',
+    'cart' => 'Giỏ hàng',
+    'all' => 'Tất cả',
+    'short' => 'Short',
+    'sport_pants' => 'Quần thể thao',
+    'jeans' => 'Quần jean',
+    'kaki' => 'Quần kaki',
+    'trousers' => 'Quần âu',
+    'tshirt' => 'Áo T-shirt',
+    'hoodie' => 'Áo Hoodies-Sweater',
+    'jacket' => 'Áo Jacket-Gilets',
+    'shirt' => 'Áo sơ mi',
+    'shoes' => 'Giày',
+    'slippers' => 'Dép',
+    'socks' => 'Tất',
+];

@@ -1,0 +1,22 @@
+<?php
+return [
+    'home' => 'Home',
+    'bottoms' => 'Bottoms',
+    'tops' => 'Tops',
+    'others' => 'Others',
+    'about' => 'About us',
+    'cart' => 'Cart',
+    'all' => 'All',
+    'short' => 'Shorts',
+    'sport_pants' => 'Sport pants',
+    'jeans' => 'Jeans',
+    'kaki' => 'Chinos',
+    'trousers' => 'Trousers',
+    'tshirt' => 'T-shirt',
+    'hoodie' => 'Hoodies & Sweaters',
+    'jacket' => 'Jackets & Gilets',
+    'shirt' => 'Shirts',
+    'shoes' => 'Shoes',
+    'slippers' => 'Sandals',
+    'socks' => 'Socks',
+];
